@@ -1,4 +1,5 @@
-# 👋 ¡Hola! Soy Stiven Ruiz
+![](https://github.com/stiven70/stiven70/blob/main/BannerStyven.png)
+# 👋 ¡Hola!
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás proyectos en los que estoy trabajando como desarrollador frontend, utilizando herramientas como HTML, CSS, JavaScript y más. Mi objetivo es construir interfaces web modernas y funcionales mientras sigo aprendiendo y explorando nuevas tecnologías.
 
